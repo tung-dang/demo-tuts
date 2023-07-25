@@ -1,0 +1,24 @@
+{
+  "name": "demo-tuts",
+  "description": "Playaround with TS codes",
+  "private": true,
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "ts-compile": "npx tsc -w"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-react": "^7.33.0",
+    "prettier": "^3.0.0"
+  }
+}
